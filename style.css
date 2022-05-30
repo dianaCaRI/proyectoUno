@@ -6,3 +6,15 @@
 .boton{
     background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%, #E55D87  100%);
 }
+.list{
+    font-family: Arial;
+    font-size: 20px;
+    left: 200px;
+    top: 600px;
+    position: absolute;
+}
+.principal{
+    position: relative;
+    left: 200px;
+    top:  200px;
+}
